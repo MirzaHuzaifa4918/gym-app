@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Gym Coach",
+  "description": "An AI-powered application that generates personalized workout plans based on user goals, experience level, and available equipment. The app features a sleek black and red theme.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
